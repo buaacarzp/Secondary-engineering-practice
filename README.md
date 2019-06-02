@@ -2,16 +2,19 @@
 ## This repository is the code of the Server . Using the HTTP communication to contact with the Client.
 
 ### Enviroment required:
-1.Python 3.x
+1.Python 3.6.
+
 2.Win10 or linux which had been confired ok.
+
 3.The module required are: flask, opencv-python,dlib,imutils,time,numpy
+
 ## How to run this project
 ### step1:
 You should look the call.py and only have to change the name of "xxxxx.py", this file can transform the value to the cmd or shell, you also should notice the location of the "xxxxxx.py".  
 ### step2:
 the caffe model had been packed ,so you only need to load the model to start your detection.
 ### step3:
-the  module of the tracking  will need the dlib , if your system is windows, please pip the file we had uploaded . 
+the  module of the tracking  will need the dlib , if your system is windows and the version of the python is 3.6, please pip the file  of the "dlib-19.8.1-cp36-cp36m-win_amd64.whl" which we had uploaded . 
 
 # My code  have little annotation, please contract with me if you have trouble to look this project.
 # Notice:
