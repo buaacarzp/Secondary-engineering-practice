@@ -16,11 +16,13 @@ the caffe model had been packed ,so you only need to load the model to start you
 ### step3:
 the  module of the tracking  will need the dlib , if your system is windows and the version of the python is 3.6, please pip the file  of the "dlib-19.8.1-cp36-cp36m-win_amd64.whl" which we had uploaded . 
 # ------------------------------------------------------------------------------------------------------------------------------
+#                                                             Warning
 # ------------------------------------------------------------------------------------------------------------------------------
 # My code  have little annotation, please contract with me if you have trouble to look this project.
 # Notice:
  The very big problem is that you haven't a C# client , But you don't need to feel confused, you can create a client by python to visit your own computer. The code I had been writted in the Csharp_kehuduan.py, you only need to change the address of the server in the Csharp_kehuduan.py and the Python_service.py .
  # -----------------------------------------------------------------------------------------------------------------------------
+ #                                                           Warning end
  # -----------------------------------------------------------------------------------------------------------------------------
 # Which we have to do in the next four days?
 ## p1. 
