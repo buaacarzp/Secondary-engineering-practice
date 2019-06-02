@@ -14,7 +14,7 @@ the caffe model had been packed ,so you only need to load the model to start you
 the  module of the tracking  will need the dlib , if your system is windows, please pip the file we had uploaded . 
 
 ## My code  have little annotation, please contract with me if you have trouble to look this project.
- The very big problem is that you haven't a C# client , But you don't need to feel confused, you can create a client by python to visit your own computer. The code I had been writted in the python_client.py, you only need to change the address of the server in the python_client.py and the Python_service_backup1.py .
+ The very big problem is that you haven't a C# client , But you don't need to feel confused, you can create a client by python to visit your own computer. The code I had been writted in the Csharp_kehuduan.py, you only need to change the address of the server in the Csharp_kehuduan.py and the Python_service_backup1.py .
 # Which we have to do in the next four days?
 ## 1. 
 the C# should give a text box to input the address of the server, not to write in the code .
